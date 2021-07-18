@@ -6,8 +6,15 @@ whatever
 
 marks
 entry
+
+
+
+principal
+hods
+
 faculty
 
 
 students
 done
+
