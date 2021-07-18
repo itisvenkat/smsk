@@ -6,3 +6,7 @@ whatever
 
 marks
 entry
+faculty
+
+
+students
